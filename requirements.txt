@@ -1,6 +1,0 @@
-opencv-python
-numpy
-pandas
-tensorflow
-scikit-image
-tabulate
